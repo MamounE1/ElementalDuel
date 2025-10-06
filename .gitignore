@@ -1,0 +1,28 @@
+# Ignore compiled class files
+*.class
+
+# Ignore backup and temporary files
+*~
+*.bak
+*.tmp
+*.swp
+
+# Ignore IDE-specific folders (Greenfoot, Eclipse, IntelliJ, etc.)
+.greenfoot/
+.settings/
+.idea/
+*.iml
+*.classpath
+*.project
+
+# Ignore Greenfoot scenario save states
+scenario-snapshot/
+images.db
+sounds.db
+
+# Ignore package files created by Greenfoot
+*.ctxt
+
+# Ignore OS-specific junk
+.DS_Store
+Thumbs.db
